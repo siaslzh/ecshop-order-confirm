@@ -1,0 +1,9 @@
+/api/cron.php
+/includes/modules/cron/order_confirm.php
+
+把这两个文件覆盖到原先的目录下。注意cron.php这个文件一般ecshop已经有了，如果没有请覆盖。
+如果想把语言包独立出来，请自己完善语言包文件。不是必须。
+/languages/zh_cn/cron/order_confirm.php
+还需要插入一条sql
+有什么问题，请联系作者QQ,本人乐于解答。
+1452908797 
